@@ -1,6 +1,7 @@
 ## Autism Classification Using Support Vector Machine Model and the AQ-10 Survey   
 
-#### by Karlie Schwartzwald  
+### by Karlie Schwartzwald  
+#### April 2023
 
 For this project I will be using data collected from a ten-question survey called the Autism Quotient - 10 Questions (AQ-10) to create a binary support vector machine (SVM) classification model that can determine whether an adult should be referred to a professional clinician for the possible diagnosis of autism spectrum disorder. This investigation can be used to determine whether this short questionnaire is adequate in identifying such adults or whether a more thorough approach is needed.  
 
